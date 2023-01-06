@@ -1,0 +1,18 @@
+{
+  "name": "Zocca",
+
+  "jaune": {
+      "src" : "img-maquette/biere.png",
+      "two" : "img-maquette/bouteille-verre.png"
+  },
+  "verte": [
+
+
+  ],
+  "marron": [
+
+  ],
+  "bleu": [
+
+  ]
+}
